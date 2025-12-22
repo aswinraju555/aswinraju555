@@ -5,7 +5,8 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Aswinraju**, a passionate **Python Developer** who focuses on Python development, backend systems, and intelligent automation.
+Hey! I'm **Aswinraju**, 
+a passionate **Python Developer** who focuses on Python development, backend systems, and intelligent automation.
 
 
 
@@ -19,13 +20,7 @@ Hey! I'm **Aswinraju**, a passionate **Python Developer** who focuses on Python 
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udhayaboopathi&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <b>✨ Turning ideas into scalable, intelligent systems ✨</b>
