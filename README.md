@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aswin
+# 👋 Hi, I'm Aswin Raju
 
 🚀 Aspiring **C++ & Python Developer**  
 💻 Passionate about problem solving, backend logic, and automation  
