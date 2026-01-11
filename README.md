@@ -1,27 +1,37 @@
-<h1 align="center">Hey, I'm Aswinraju 👋</h1>
-<h3 align="center">Python Developer • AI Enthusiast • </h3>
+# 👋 Hi, I'm Aswin
+
+🚀 Aspiring **C++ & Python Developer**  
+💻 Passionate about problem solving, backend logic, and automation  
+🌱 Currently learning **DSA, OOP, and real-world software development**
 
 ---
 
-## 🧑‍💻 About Me
-
-Hey! I'm **Aswinraju**, 
-a passionate **Python Developer** who focuses on Python development, backend systems, and intelligent automation.
-
-
-
-
 ## 🛠️ Tech Stack
+- **Languages:** C++, Python
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** DSA, OOP, File Handling, Automation
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+---
 
+## 📌 What I Do
+- Build clean and efficient programs
+- Practice algorithms and data structures
+- Create small automation tools
+- Learn by building real projects
 
+---
 
+## 📂 My Repositories
+- 🔹 `cpp-developer-lab` – C++ practice & DSA
+- 🔹 `python-developer-lab` – Python automation & algorithms
 
+---
 
+## 📈 Goals
+- Become a strong software developer
+- Contribute to open-source projects
+- Build scalable applications
 
-<p align="center">
-  <b>✨ Turning ideas into scalable, intelligent systems ✨</b>
-</p>
+---
+
+⭐ Feel free to explore my repositories and give feedback!
