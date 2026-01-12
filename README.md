@@ -1,58 +1,45 @@
-<!-- ===== HEADER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Aswin%20Raju&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Aswin Raju
 
-<!-- ===== AVATAR ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aswinraju555/aswinraju55/main/avatar.png" width="200" />
-</p>
-
-<h2 align="center">👋 Hey, I'm Aswin Raju</h2>
-
-<p align="center">
-💻 C++ & Python Developer <br/>
-📚 Learning DSA & OOP <br/>
-🚀 Building clean & efficient code
-</p>
+**C++ & Python Developer**  
+Focused on problem solving, data structures, and clean backend logic.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎯 Aspiring Software Developer  
-- 🧠 Strong interest in **problem solving & backend logic**  
-- 🛠 Learning by building real projects  
-- 🌱 Improving daily with consistent practice  
+## About
+I am an aspiring software developer with a strong interest in core programming
+concepts and algorithmic thinking. I focus on writing clear, maintainable code
+and continuously improving my fundamentals through practice and projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 - **Languages:** C++, Python  
-- **Concepts:** DSA, OOP  
+- **Core Concepts:** Data Structures, Algorithms, OOP  
 - **Tools:** Git, GitHub, VS Code  
+- **Platforms:** Windows, Linux  
 
 ---
 
-## 📂 Featured Projects
-- 🔹 **C++ Developer Lab** – DSA & OOP practice  
-- 🔹 **Python Developer Lab** – Automation & algorithms  
+## Projects
+- **C++ Developer Lab**  
+  Practice programs covering fundamentals, OOP, and algorithms.
+
+- **Python Developer Lab**  
+  Scripts and programs focused on automation and problem solving.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinraju55&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinraju55&theme=tokyonight" />
-</p>
+## Learning & Growth
+- Improving DSA problem-solving skills  
+- Writing efficient and readable code  
+- Preparing for software development roles  
 
 ---
 
-## 🎯 Goal
-To become a skilled software developer and contribute to meaningful real-world projects.
+## GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinraju55&show_icons=true&theme=default)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Contact
+GitHub: https://github.com/aswinraju55
