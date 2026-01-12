@@ -5,7 +5,7 @@
 
 <!-- ===== AVATAR ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aswinraju55/aswinraju55/main/avatar.png" width="200" />
+  <img src="https://raw.githubusercontent.com/aswinraju555/aswinraju55/main/avatar.png" width="200" />
 </p>
 
 <h2 align="center">👋 Hey, I'm Aswin Raju</h2>
