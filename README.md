@@ -1,37 +1,58 @@
-# 👋 Hi, I'm Aswin Raju
+<!-- ===== HEADER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Aswin%20Raju&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 Aspiring **C++ & Python Developer**  
-💻 Passionate about problem solving, backend logic, and automation  
-🌱 Currently learning **DSA, OOP, and real-world software development**
+<!-- ===== AVATAR ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aswinraju55/aswinraju55/main/avatar.png" width="200" />
+</p>
+
+<h2 align="center">👋 Hey, I'm Aswin Raju</h2>
+
+<p align="center">
+💻 C++ & Python Developer <br/>
+📚 Learning DSA & OOP <br/>
+🚀 Building clean & efficient code
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 🎯 Aspiring Software Developer  
+- 🧠 Strong interest in **problem solving & backend logic**  
+- 🛠 Learning by building real projects  
+- 🌱 Improving daily with consistent practice  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Python
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** DSA, OOP, File Handling, Automation
+- **Languages:** C++, Python  
+- **Concepts:** DSA, OOP  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## 📌 What I Do
-- Build clean and efficient programs
-- Practice algorithms and data structures
-- Create small automation tools
-- Learn by building real projects
+## 📂 Featured Projects
+- 🔹 **C++ Developer Lab** – DSA & OOP practice  
+- 🔹 **Python Developer Lab** – Automation & algorithms  
 
 ---
 
-## 📂 My Repositories
-- 🔹 `cpp-developer-lab` – C++ practice & DSA
-- 🔹 `python-developer-lab` – Python automation & algorithms
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinraju55&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinraju55&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Goals
-- Become a strong software developer
-- Contribute to open-source projects
-- Build scalable applications
+## 🎯 Goal
+To become a skilled software developer and contribute to meaningful real-world projects.
 
 ---
 
-⭐ Feel free to explore my repositories and give feedback!
+⭐ Thanks for visiting my profile!
