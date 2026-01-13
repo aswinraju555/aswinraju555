@@ -1,14 +1,7 @@
-# Hi, I'm Aswin 
+# Hi, I'm Aswin 🧑🏾‍💻
 
-## ASWIN RAJU  
-**C++ & PYTHON DEVELOPER**  
-Focused on problem solving, data structures, and clean backend logic.
-
----
-
-### ✨ About  
-I am an aspiring software developer with a strong interest in core programming concepts and algorithmic thinking.  
-I focus on writing clear, maintainable code and continuously improving my fundamentals through practice and projects.
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00BFFF&center=true&vCenter=true&width=600&lines=ASWIN+RAJU;C%2B%2B+%26+PYTHON+DEVELOPER;Problem+Solver+%7C+DSA+Enthusiast;Clean+Backend+Logic)](https://git.io/typing-svg)
 
 ---
 
@@ -24,36 +17,16 @@ I focus on writing clear, maintainable code and continuously improving my fundam
 
 ---
 
-### 📂 Projects  
-
-- **C++ Developer Lab**  
-  Practice programs covering fundamentals, OOP, and algorithms.
-
-- **Python Developer Lab**  
-  Scripts and programs focused on automation and problem solving.
-
----
-
-### 🚀 Learning & Growth  
-
-- Improving DSA problem-solving skills  
-- Writing efficient and readable code  
-- Preparing for software development roles  
-
----
-
 ### 📊 GitHub Activity  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinraju555&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinraju555&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinraju555&layout=compact&theme=radical)
 
 ---
 
-### 👀 Viewer Section  
+### 👋 Animated Wave  
 
-Here’s a quick glance at my profile badges:  
-![Profile Views](https://komarev.com/ghpvc/?username=aswinraju555&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/aswinraju555?style=for-the-badge)  
-![Stars](https://img.shields.io/github/stars/aswinraju555?style=for-the-badge)
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Welcome to my profile!
 
 ---
 
