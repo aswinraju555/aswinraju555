@@ -1,4 +1,4 @@
-# Hi, I'm Aswin 🧑🏾‍💻
+# Hi, I'm Aswin 
 
 ## ASWIN RAJU  
 **C++ & PYTHON DEVELOPER**  
