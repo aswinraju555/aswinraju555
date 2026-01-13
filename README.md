@@ -1,7 +1,7 @@
 # Hi, I'm Aswin 🧑🏾‍💻
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00BFFF&center=true&vCenter=true&width=600&lines=ASWIN+RAJU;C%2B%2B+%26+PYTHON+DEVELOPER;Problem+Solver+%7C+DSA+Enthusiast;Clean+Backend+Logic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00BFFF&center=true&vCenter=true&width=600&lines=J+K+ASWIN+RAJU;C%2B%2B+%26+PYTHON+DEVELOPER;Problem+Solver+%7C+DSA+Enthusiast;Clean+Backend+Logic)](https://git.io/typing-svg)
 
 ---
 
@@ -21,6 +21,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswinraju555&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinraju555&layout=compact&theme=radical)
+
+---
+
+### 👀 Profile Views & Social  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aswinraju555&style=for-the-badge&color=blue)  
+![Followers](https://img.shields.io/github/followers/aswinraju555?style=for-the-badge&color=green)  
+![Stars](https://img.shields.io/github/stars/aswinraju555?style=for-the-badge&color=yellow)
 
 ---
 
